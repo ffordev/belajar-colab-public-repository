@@ -7,4 +7,6 @@ Belajar squash 2
 
 Belajar squash 3
 
+Belajar mandiri
+
 
